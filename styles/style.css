@@ -95,6 +95,7 @@ ol {
 
 .search-form__textfield {
   font-family: "Fira Sans Condensed", sans-serif;
+  font-size: inherit;
   inline-size: 225px;
   block-size: 27px;
   border: none;
